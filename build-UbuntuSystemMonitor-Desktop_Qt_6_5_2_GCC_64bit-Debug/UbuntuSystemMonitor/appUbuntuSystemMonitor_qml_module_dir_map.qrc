@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/UbuntuSystemMonitor">/home/thanos/QtProject/UbuntuSystemMonitor/build-UbuntuSystemMonitor-Desktop_Qt_6_5_2_GCC_64bit-Debug/UbuntuSystemMonitor</file>
-
-  </qresource>
-</RCC>
