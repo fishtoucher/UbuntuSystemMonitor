@@ -1,0 +1,5 @@
+module UbuntuSystemMonitor
+typeinfo appUbuntuSystemMonitor.qmltypes
+prefer :/UbuntuSystemMonitor/
+Main 1.0 Main.qml
+

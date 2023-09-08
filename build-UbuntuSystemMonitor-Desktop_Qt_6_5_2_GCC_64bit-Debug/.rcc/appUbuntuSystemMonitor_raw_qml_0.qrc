@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/UbuntuSystemMonitor/">
+    <file alias="Main.qml">/home/thanos/QtProject/UbuntuSystemMonitor/UbuntuSystemMonitor/Main.qml</file>
+  </qresource>
+</RCC>
+

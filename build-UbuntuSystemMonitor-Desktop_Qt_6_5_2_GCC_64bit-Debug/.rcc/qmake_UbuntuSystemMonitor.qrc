@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/UbuntuSystemMonitor">
+    <file alias="qmldir">/home/thanos/QtProject/UbuntuSystemMonitor/build-UbuntuSystemMonitor-Desktop_Qt_6_5_2_GCC_64bit-Debug/UbuntuSystemMonitor/qmldir</file>
+  </qresource>
+</RCC>
+
