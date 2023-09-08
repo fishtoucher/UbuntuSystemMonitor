@@ -1,2 +1,2 @@
 # UbuntuSystemMonitor
-A Windows-like system monitor created using qml
+A Windows-like system monitor created using qml :)
