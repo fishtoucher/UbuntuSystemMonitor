@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/Pages"/>
     <qresource prefix="/Views"/>
-    <qresource prefix="/Components"/>
+    <qresource prefix="/Components">
+        <file>MyAccordion.qml</file>
+        <file>MyAccordionItem.qml</file>
+    </qresource>
 </RCC>
