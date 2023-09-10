@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Pages"/>
+    <qresource prefix="/Views"/>
+    <qresource prefix="/Components"/>
+</RCC>

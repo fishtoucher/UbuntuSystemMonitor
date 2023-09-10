@@ -9,14 +9,14 @@ find_package(Qt6 6.4 REQUIRED COMPONENTS Quick)
 qt_standard_project_setup()
 
 qt_add_executable(appUbuntuSystemMonitor
-    main.cpp
+    main.cpp Resources.qrc
 )
 
 qt_add_qml_module(appUbuntuSystemMonitor
     URI UbuntuSystemMonitor
     VERSION 1.0
     QML_FILES Main.qml
-    QML_FILES MyComponent.qml
+    QML_FILES
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
