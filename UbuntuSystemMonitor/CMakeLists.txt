@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 
-find_package(Qt6 6.4 REQUIRED COMPONENTS Quick)
+find_package(Qt6 6.4 REQUIRED COMPONENTS Quick Widgets)
 
 qt_standard_project_setup()
 
@@ -32,7 +32,7 @@ set_target_properties(appUbuntuSystemMonitor PROPERTIES
 )
 
 target_link_libraries(appUbuntuSystemMonitor
-    PRIVATE Qt6::Quick
+    PRIVATE Qt6::Quick Qt6::Widgets
 )
 
 include(GNUInstallDirs)
